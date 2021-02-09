@@ -1,0 +1,6 @@
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Repository\bin\Debug\DAUtility.Repository.dll
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Repository\bin\Debug\DAUtility.Repository.pdb
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Repository\obj\Debug\DAUtility.Repository.csproj.CoreCompileInputs.cache
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Repository\obj\Debug\DAUtility.Repository.dll
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Repository\obj\Debug\DAUtility.Repository.pdb
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Repository\obj\Debug\DAUtility.Repository.csprojAssemblyReference.cache

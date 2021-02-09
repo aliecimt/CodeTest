@@ -1,0 +1,9 @@
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Domain\bin\Debug\DAUtility.Domain.dll
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Domain\bin\Debug\DAUtility.Domain.pdb
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Domain\obj\Debug\DAUtility.Domain.csprojAssemblyReference.cache
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Domain\obj\Debug\DAUtility.Domain.csproj.CoreCompileInputs.cache
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Domain\obj\Debug\DAUtility.Domain.dll
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Domain\obj\Debug\DAUtility.Domain.pdb
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Domain\bin\Debug\DAUtility.Repository.dll
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Domain\bin\Debug\DAUtility.Repository.pdb
+C:\Users\afzal.a.ali\source\repos\DAUtility\DAUtility.Domain\obj\Debug\DAUtility.Domain.csproj.CopyComplete
